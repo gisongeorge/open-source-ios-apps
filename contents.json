@@ -6417,7 +6417,7 @@
       "date_added": "Tue Jul 26 14:42:12 2016 +0200",
       "suggested_by": "@jlnr",
       "stars": 1
-    },
+    },v
     {
       "title": "Siesta GitHub Browser",
       "category": [
@@ -6587,6 +6587,22 @@
       "screenshots": ["https://github.com/vanyaland/Californication/raw/master/screenshot.png"],
       "date_added": "Aug 7 2016",
       "suggested_by": "@vanyaland"
+    },
+    {
+      "title": "Tip Calculator - Calculate Tip and Split The Bill",
+      "category": [
+        "finance",
+        "viper"
+      ],
+      "description": "Calculate your tip and split the bill between any number of people.",
+      "source": "https://github.com/tirupati17/tip-calculator-auto-layout-viper-objective-c",
+      "itunes": "https://itunes.apple.com/app/id1139456857",
+      "license": "mit",
+      "screenshots": ["http://something.com/image.png"],
+      "date_added": "Aug 8 2016",
+      "tags": [
+        "viper"
+      ]
     }
   ]
 }
